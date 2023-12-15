@@ -4,15 +4,15 @@
 
 Пример списка ролей
 
-![image_1](https://github.com/EkaterinaKugot/qml/blob/main/RolesAndReplicas/images/2.png)
+![image_1](https://github.com/EkaterinaKugot/RolesAndReplicas/blob/main/RolesAndReplicas/images/2.png)
 
 Пример реплик
 
-![image_2](https://github.com/EkaterinaKugot/qml/blob/main/RolesAndReplicas/images/3.png)
+![image_2](https://github.com/EkaterinaKugot/RolesAndReplicas/blob/main/RolesAndReplicas/images/3.png)
 
 ## Выход
 
-![image_3](https://github.com/EkaterinaKugot/qml/blob/main/RolesAndReplicas/images/1.png)
+![image_3](https://github.com/EkaterinaKugot/RolesAndReplicas/blob/main/RolesAndReplicas/images/1.png)
 
 
 
